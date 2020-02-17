@@ -1,0 +1,932 @@
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\ApplicationInsights.config
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\birazidaburada.dll.config
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\birazidaburada.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\birazidaburada.pdb
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\csc.exe
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\csc.exe.config
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\csc.rsp
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\csi.exe
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\csi.exe.config
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\csi.rsp
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\System.AppContext.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\System.Collections.Immutable.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\System.Console.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\System.IO.Compression.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\System.IO.FileSystem.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\System.IO.Pipes.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\System.Security.AccessControl.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\System.Security.Claims.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\System.Threading.Thread.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\System.ValueTuple.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\System.Xml.XPath.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\vbc.exe
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\vbc.exe.config
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\vbc.rsp
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\VBCSCompiler.exe
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\roslyn\VBCSCompiler.exe.config
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\Antlr3.Runtime.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\Microsoft.AI.Web.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\Microsoft.AI.WindowsServer.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\Microsoft.ApplicationInsights.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\Microsoft.Web.Infrastructure.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\Newtonsoft.Json.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\System.Diagnostics.DiagnosticSource.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\System.Web.Helpers.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\System.Web.Mvc.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\System.Web.Optimization.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\System.Web.Razor.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\System.Web.WebPages.Deployment.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\System.Web.WebPages.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\System.Web.WebPages.Razor.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\WebGrease.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\System.Web.Helpers.xml
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\System.Web.Mvc.xml
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\System.Web.Optimization.xml
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\System.Web.Razor.xml
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\System.Web.WebPages.xml
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\System.Web.WebPages.Deployment.xml
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\System.Web.WebPages.Razor.xml
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\Newtonsoft.Json.xml
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\Antlr3.Runtime.pdb
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\System.Diagnostics.DiagnosticSource.xml
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\Microsoft.AI.WindowsServer.xml
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\Microsoft.AI.Web.xml
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\obj\Debug\birazidaburada.csprojAssemblyReference.cache
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\obj\Debug\birazidaburada.csproj.CoreCompileInputs.cache
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\obj\Debug\birazidaburada.csproj.CopyComplete
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\obj\Debug\birazidaburada.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\obj\Debug\birazidaburada.pdb
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\EntityFramework.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\EntityFramework.SqlServer.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\EntityFramework.xml
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\EntityFramework.SqlServer.xml
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\DataAccessLayer.dll
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\DataAccessLayer.pdb
+c:\users\iyazici\source\repos\birazidaburada\birazidaburada\bin\DataAccessLayer.dll.config
+C:\Users\iyazici\source\repos\birazidaburada\birazidaburada\bin\Autofac.dll
+C:\Users\iyazici\source\repos\birazidaburada\birazidaburada\bin\Autofac.Integration.Mvc.dll
+C:\Users\iyazici\source\repos\birazidaburada\birazidaburada\bin\Autofac.xml
+C:\Users\iyazici\source\repos\birazidaburada\birazidaburada\bin\Autofac.Integration.Mvc.xml
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\ApplicationInsights.config
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\birazidaburada.dll.config
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\birazidaburada.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\birazidaburada.pdb
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\csc.exe
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\csc.exe.config
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\csc.rsp
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\csi.exe
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\csi.exe.config
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\csi.rsp
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.AppContext.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Console.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.IO.Compression.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.IO.Pipes.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Security.Claims.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Threading.Thread.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.ValueTuple.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\vbc.exe
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\vbc.exe.config
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\vbc.rsp
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\VBCSCompiler.exe
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\Antlr3.Runtime.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\Autofac.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\Autofac.Integration.Mvc.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\DataAccessLayer.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\EntityFramework.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\EntityFramework.SqlServer.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AI.Web.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.ApplicationInsights.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\Newtonsoft.Json.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.Helpers.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.Mvc.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.Optimization.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.Razor.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.WebPages.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.WebPages.Razor.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\WebGrease.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\DataAccessLayer.pdb
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\DataAccessLayer.dll.config
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\Autofac.xml
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\Autofac.Integration.Mvc.xml
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\EntityFramework.xml
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\EntityFramework.SqlServer.xml
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.Helpers.xml
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.Mvc.xml
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.Optimization.xml
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.Razor.xml
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.WebPages.xml
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.WebPages.Razor.xml
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\Newtonsoft.Json.xml
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\Antlr3.Runtime.pdb
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AI.Web.xml
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\obj\Debug\birazidaburada.csprojAssemblyReference.cache
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\obj\Debug\birazidaburada.csproj.CoreCompileInputs.cache
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\obj\Debug\birazidaburada.csproj.CopyComplete
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\obj\Debug\birazidaburada.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\birazidaburada\obj\Debug\birazidaburada.pdb
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\ApplicationInsights.config
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\birazidaburada.dll.config
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\birazidaburada.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\birazidaburada.pdb
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\csc.exe
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\csc.exe.config
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\csc.rsp
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\csi.exe
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\csi.exe.config
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\csi.rsp
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.AppContext.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Console.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.IO.Compression.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.IO.Pipes.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Security.Claims.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Threading.Thread.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.ValueTuple.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\vbc.exe
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\vbc.exe.config
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\vbc.rsp
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\VBCSCompiler.exe
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Antlr3.Runtime.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Autofac.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Autofac.Integration.Mvc.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\DataAccessLayer.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\EntityFramework.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\EntityFramework.SqlServer.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AI.Web.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.ApplicationInsights.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Newtonsoft.Json.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.Helpers.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.Mvc.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.Optimization.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.Razor.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.WebPages.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.WebPages.Razor.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\WebGrease.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\DataAccessLayer.pdb
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\DataAccessLayer.dll.config
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Autofac.xml
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Autofac.Integration.Mvc.xml
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\EntityFramework.xml
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\EntityFramework.SqlServer.xml
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.Helpers.xml
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.Mvc.xml
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.Optimization.xml
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.Razor.xml
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.WebPages.xml
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.WebPages.Razor.xml
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Newtonsoft.Json.xml
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Antlr3.Runtime.pdb
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AI.Web.xml
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\obj\Debug\birazidaburada.csprojAssemblyReference.cache
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\obj\Debug\birazidaburada.csproj.CoreCompileInputs.cache
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\obj\Debug\birazidaburada.csproj.CopyComplete
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\obj\Debug\birazidaburada.dll
+C:\Users\kkcsa\Desktop\e-ticaret\13.11.2019\birazidaburada\birazidaburada\obj\Debug\birazidaburada.pdb
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\ApplicationInsights.config
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\birazidaburada.dll.config
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\birazidaburada.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\birazidaburada.pdb
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\csc.exe
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\csc.exe.config
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\csc.rsp
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\csi.exe
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\csi.exe.config
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\csi.rsp
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.AppContext.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Console.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.IO.Compression.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.IO.Pipes.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Security.Claims.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Threading.Thread.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.ValueTuple.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Xml.XPath.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\vbc.exe
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\vbc.exe.config
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\vbc.rsp
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\VBCSCompiler.exe
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Antlr3.Runtime.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Autofac.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Autofac.Integration.Mvc.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\DataAccessLayer.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\EntityFramework.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\EntityFramework.SqlServer.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AI.Web.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.ApplicationInsights.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Newtonsoft.Json.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.Helpers.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.Mvc.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.Optimization.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.Razor.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.WebPages.Deployment.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.WebPages.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.WebPages.Razor.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\WebGrease.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\DataAccessLayer.pdb
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\DataAccessLayer.dll.config
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Autofac.xml
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Autofac.Integration.Mvc.xml
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\EntityFramework.xml
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\EntityFramework.SqlServer.xml
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.Helpers.xml
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.Mvc.xml
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.Optimization.xml
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.Razor.xml
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.WebPages.xml
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.WebPages.Deployment.xml
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Web.WebPages.Razor.xml
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Newtonsoft.Json.xml
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Antlr3.Runtime.pdb
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.AI.Web.xml
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\obj\Debug\birazidaburada.csprojAssemblyReference.cache
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\obj\Debug\birazidaburada.csproj.CoreCompileInputs.cache
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\obj\Debug\birazidaburada.csproj.CopyComplete
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\obj\Debug\birazidaburada.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\birazidaburada\obj\Debug\birazidaburada.pdb
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\ApplicationInsights.config
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\birazidaburada.dll.config
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\birazidaburada.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\birazidaburada.pdb
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\csc.exe
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\csc.exe.config
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\csc.rsp
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\csi.exe
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\csi.exe.config
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\csi.rsp
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.AppContext.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Collections.Immutable.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Console.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Diagnostics.Process.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.IO.Compression.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.IO.FileSystem.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.IO.Pipes.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Reflection.Metadata.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Security.AccessControl.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Security.Claims.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Security.Principal.Windows.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Threading.Thread.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.ValueTuple.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Xml.XmlDocument.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Xml.XPath.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\vbc.exe
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\vbc.exe.config
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\vbc.rsp
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\VBCSCompiler.exe
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\VBCSCompiler.exe.config
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Antlr3.Runtime.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Autofac.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Autofac.Integration.Mvc.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\DataAccessLayer.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\EntityFramework.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\EntityFramework.SqlServer.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AI.Agent.Intercept.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AI.DependencyCollector.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AI.Web.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AI.WindowsServer.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.ApplicationInsights.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.Web.Infrastructure.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Newtonsoft.Json.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Diagnostics.DiagnosticSource.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.Helpers.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.Mvc.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.Optimization.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.Razor.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.WebPages.Deployment.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.WebPages.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.WebPages.Razor.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\WebGrease.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\DataAccessLayer.pdb
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\DataAccessLayer.dll.config
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Autofac.xml
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Autofac.Integration.Mvc.xml
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\EntityFramework.xml
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\EntityFramework.SqlServer.xml
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.Helpers.xml
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.Mvc.xml
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.Optimization.xml
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.Razor.xml
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.WebPages.xml
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.WebPages.Deployment.xml
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.WebPages.Razor.xml
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Newtonsoft.Json.xml
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Antlr3.Runtime.pdb
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Diagnostics.DiagnosticSource.xml
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AI.DependencyCollector.xml
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AI.WindowsServer.xml
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AI.Web.xml
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\obj\Debug\birazidaburada.csprojAssemblyReference.cache
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\obj\Debug\birazidaburada.csproj.CoreCompileInputs.cache
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\obj\Debug\birazidaburada.csproj.CopyComplete
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\obj\Debug\birazidaburada.dll
+F:\AÇBENİBESTİEE\birazidaburada\birazidaburada\obj\Debug\birazidaburada.pdb
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\obj\Debug\birazidaburada.csprojAssemblyReference.cache
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\ApplicationInsights.config
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\birazidaburada.dll.config
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\birazidaburada.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\birazidaburada.pdb
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\csc.exe
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\csc.exe.config
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\csc.rsp
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\csi.exe
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\csi.exe.config
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\csi.rsp
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.AppContext.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Console.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.IO.Compression.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.IO.Pipes.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Security.Claims.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Threading.Thread.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.ValueTuple.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\vbc.exe
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\vbc.exe.config
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\vbc.rsp
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\VBCSCompiler.exe
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Antlr3.Runtime.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Autofac.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Autofac.Integration.Mvc.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\DataAccessLayer.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\EntityFramework.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\EntityFramework.SqlServer.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AI.Web.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.ApplicationInsights.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Newtonsoft.Json.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.Helpers.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.Mvc.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.Optimization.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.Razor.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.WebPages.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.WebPages.Razor.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\WebGrease.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\DataAccessLayer.pdb
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\DataAccessLayer.dll.config
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Autofac.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Autofac.Integration.Mvc.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\EntityFramework.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\EntityFramework.SqlServer.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.Helpers.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.Mvc.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.Optimization.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.Razor.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.WebPages.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.WebPages.Razor.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Newtonsoft.Json.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Antlr3.Runtime.pdb
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AI.Web.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\obj\Debug\birazidaburada.csproj.CopyComplete
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\obj\Debug\birazidaburada.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\obj\Debug\birazidaburada.pdb
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\ApplicationInsights.config
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\birazidaburada.dll.config
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\birazidaburada.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\birazidaburada.pdb
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\csc.exe
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\csc.exe.config
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\csc.rsp
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\csi.exe
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\csi.exe.config
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\csi.rsp
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\System.AppContext.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\System.Console.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\System.IO.Compression.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\System.IO.Pipes.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\System.Security.Claims.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\System.Threading.Thread.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\System.ValueTuple.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\vbc.exe
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\vbc.exe.config
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\vbc.rsp
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\VBCSCompiler.exe
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\Antlr3.Runtime.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\Autofac.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\Autofac.Integration.Mvc.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\DataAccessLayer.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\EntityFramework.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\EntityFramework.SqlServer.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\Microsoft.AI.Web.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\Microsoft.ApplicationInsights.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\Newtonsoft.Json.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\System.Web.Helpers.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\System.Web.Mvc.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\System.Web.Optimization.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\System.Web.Razor.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\System.Web.WebPages.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\System.Web.WebPages.Razor.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\WebGrease.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\DataAccessLayer.pdb
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\DataAccessLayer.dll.config
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\Autofac.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\Autofac.Integration.Mvc.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\EntityFramework.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\EntityFramework.SqlServer.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\System.Web.Helpers.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\System.Web.Mvc.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\System.Web.Optimization.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\System.Web.Razor.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\System.Web.WebPages.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\System.Web.WebPages.Razor.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\Newtonsoft.Json.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\Antlr3.Runtime.pdb
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\Microsoft.AI.Web.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\obj\Debug\birazidaburada.csprojAssemblyReference.cache
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\obj\Debug\birazidaburada.csproj.CopyComplete
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\obj\Debug\birazidaburada.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\E Commerce\birazidaburada\obj\Debug\birazidaburada.pdb
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\ApplicationInsights.config
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\birazidaburada.dll.config
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\birazidaburada.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\birazidaburada.pdb
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\csc.exe
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\csc.exe.config
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\csc.rsp
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\csi.exe
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\csi.exe.config
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\csi.rsp
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\System.AppContext.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\System.Console.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\System.IO.Compression.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\System.IO.Pipes.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\System.Security.Claims.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\System.Threading.Thread.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\System.ValueTuple.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\vbc.exe
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\vbc.exe.config
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\vbc.rsp
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\VBCSCompiler.exe
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\Antlr3.Runtime.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\Autofac.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\Autofac.Integration.Mvc.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\DataAccessLayer.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\EntityFramework.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\EntityFramework.SqlServer.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\Microsoft.AI.Web.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\Microsoft.ApplicationInsights.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\Newtonsoft.Json.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\System.Web.Helpers.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\System.Web.Mvc.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\System.Web.Optimization.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\System.Web.Razor.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\System.Web.WebPages.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\System.Web.WebPages.Razor.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\WebGrease.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\DataAccessLayer.pdb
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\DataAccessLayer.dll.config
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\Autofac.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\Autofac.Integration.Mvc.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\EntityFramework.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\EntityFramework.SqlServer.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\System.Web.Helpers.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\System.Web.Mvc.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\System.Web.Optimization.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\System.Web.Razor.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\System.Web.WebPages.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\System.Web.WebPages.Razor.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\Newtonsoft.Json.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\Antlr3.Runtime.pdb
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\Microsoft.AI.Web.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\obj\Debug\birazidaburada.csprojAssemblyReference.cache
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\obj\Debug\birazidaburada.csproj.CopyComplete
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\obj\Debug\birazidaburada.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazıdaburada\birazidaburada\obj\Debug\birazidaburada.pdb
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\ApplicationInsights.config
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\birazidaburada.dll.config
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\birazidaburada.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\birazidaburada.pdb
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\csc.exe
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\csc.exe.config
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\csc.rsp
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\csi.exe
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\csi.exe.config
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\csi.rsp
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.AppContext.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Console.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.IO.Compression.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.IO.Pipes.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Security.Claims.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Threading.Thread.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.ValueTuple.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\vbc.exe
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\vbc.exe.config
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\vbc.rsp
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\VBCSCompiler.exe
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Antlr3.Runtime.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Autofac.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Autofac.Integration.Mvc.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\DataAccessLayer.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\EntityFramework.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\EntityFramework.SqlServer.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AI.Web.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.ApplicationInsights.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Newtonsoft.Json.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.Helpers.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.Mvc.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.Optimization.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.Razor.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.WebPages.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.WebPages.Razor.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\WebGrease.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\DataAccessLayer.pdb
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\DataAccessLayer.dll.config
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Autofac.xml
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Autofac.Integration.Mvc.xml
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\EntityFramework.xml
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\EntityFramework.SqlServer.xml
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.Helpers.xml
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.Mvc.xml
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.Optimization.xml
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.Razor.xml
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.WebPages.xml
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Web.WebPages.Razor.xml
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Newtonsoft.Json.xml
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Antlr3.Runtime.pdb
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.AI.Web.xml
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\obj\Debug\birazidaburada.csprojAssemblyReference.cache
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\obj\Debug\birazidaburada.csproj.CopyComplete
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\obj\Debug\birazidaburada.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\birazidaburada\obj\Debug\birazidaburada.pdb

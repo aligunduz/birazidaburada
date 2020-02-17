@@ -1,0 +1,16 @@
+C:\Users\iyazici\source\repos\birazidaburada\DataAccessLayer\bin\Release\DataAccessLayer.dll.config
+C:\Users\iyazici\source\repos\birazidaburada\DataAccessLayer\bin\Release\DataAccessLayer.dll
+C:\Users\iyazici\source\repos\birazidaburada\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\iyazici\source\repos\birazidaburada\DataAccessLayer\bin\Release\EntityFramework.dll
+C:\Users\iyazici\source\repos\birazidaburada\DataAccessLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\iyazici\source\repos\birazidaburada\DataAccessLayer\bin\Release\EntityFramework.xml
+C:\Users\iyazici\source\repos\birazidaburada\DataAccessLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\iyazici\source\repos\birazidaburada\DataAccessLayer\obj\Release\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\iyazici\source\repos\birazidaburada\DataAccessLayer\obj\Release\DataAccessLayer.Migrations.ff.resources
+C:\Users\iyazici\source\repos\birazidaburada\DataAccessLayer\obj\Release\DataAccessLayer.Migrations.removeColor.resources
+C:\Users\iyazici\source\repos\birazidaburada\DataAccessLayer\obj\Release\DataAccessLayer.Migrations.removeFİlePath.resources
+C:\Users\iyazici\source\repos\birazidaburada\DataAccessLayer\obj\Release\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\iyazici\source\repos\birazidaburada\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\iyazici\source\repos\birazidaburada\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CopyComplete
+C:\Users\iyazici\source\repos\birazidaburada\DataAccessLayer\obj\Release\DataAccessLayer.dll
+C:\Users\iyazici\source\repos\birazidaburada\DataAccessLayer\obj\Release\DataAccessLayer.pdb

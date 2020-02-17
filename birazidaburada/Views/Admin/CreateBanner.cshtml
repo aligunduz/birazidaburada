@@ -1,0 +1,49 @@
+﻿@model birazidaburada.Models.BannerViewModel
+@using birazidaburada.MyExtensions
+@{
+    ViewBag.Title = "CreateBanner";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>CreateBanner</h2>
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+<div class="form-horizontal">
+    <h4>Banner</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+
+    @*<div class="form-group">
+        @Html.Label("Product", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(model=>model.ProductId, Model.Products, htmlAttributes: new { @class = "form-control" })
+            @Html.ValidationMessageFor(model=>model.ProductId, "", new { @class = "text-danger" })
+        </div>
+    </div>*@
+
+    @Custom_Helpers_class.Create_DropDown(Model.Products,"ProductId", "Product")
+    @Custom_Helpers_class.Create_DropDown(Model.BannerTypes, "BannerType", "BannerType")
+
+
+    @*<div class="form-group">
+        @Html.Label("Banner Type", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownList("BannerType", Model.BannerTypes, htmlAttributes: new { @class = "form-control" })
+        </div>
+    </div>*@
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Create" class="btn btn-default" />
+        </div>
+    </div>
+</div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

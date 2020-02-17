@@ -1,0 +1,121 @@
+c:\users\iyazici\source\repos\birazidaburada\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+c:\users\iyazici\source\repos\birazidaburada\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+c:\users\iyazici\source\repos\birazidaburada\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+c:\users\iyazici\source\repos\birazidaburada\DataAccessLayer\bin\Debug\EntityFramework.dll
+c:\users\iyazici\source\repos\birazidaburada\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\iyazici\source\repos\birazidaburada\DataAccessLayer\bin\Debug\EntityFramework.xml
+c:\users\iyazici\source\repos\birazidaburada\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\iyazici\source\repos\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+c:\users\iyazici\source\repos\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+c:\users\iyazici\source\repos\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+c:\users\iyazici\source\repos\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\iyazici\source\repos\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.ff.resources
+C:\Users\iyazici\source\repos\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\iyazici\source\repos\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\iyazici\source\repos\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.removeColor.resources
+C:\Users\iyazici\source\repos\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.removeFİlePath.resources
+C:\Users\iyazici\source\repos\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.disp.resources
+C:\Users\iyazici\source\repos\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.bannerAdded.resources
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.ff.resources
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.removeColor.resources
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.removeFİlePath.resources
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.disp.resources
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.bannerAdded.resources
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\kkcsa\Desktop\13.11.2019\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.ff.resources
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.removeColor.resources
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.removeFİlePath.resources
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.disp.resources
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.bannerAdded.resources
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\melte\OneDrive\Masaüstü\e-ticaret\13.11.2019\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+F:\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+F:\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+F:\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+F:\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\bin\Debug\EntityFramework.dll
+F:\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\bin\Debug\EntityFramework.xml
+F:\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+F:\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.ff.resources
+F:\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.removeColor.resources
+F:\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.removeFİlePath.resources
+F:\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.disp.resources
+F:\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.bannerAdded.resources
+F:\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+F:\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+F:\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+F:\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+F:\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.usertablosu.resources
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.ff.resources
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.removeColor.resources
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.removeFİlePath.resources
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.disp.resources
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.bannerAdded.resources
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.usertablosu.resources
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.userslogin.resources
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.Wisheslist.resources
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.wishes2.resources
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.wishes3.resources
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.wishes4.resources
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\AG\Desktop\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.deletewishes.resources
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.ff.resources
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.removeColor.resources
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.removeFİlePath.resources
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.disp.resources
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.bannerAdded.resources
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.usertablosu.resources
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.userslogin.resources
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.Wisheslist.resources
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.wishes2.resources
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.wishes3.resources
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.wishes4.resources
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.deletewishes.resources
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\AG\Desktop\desktop\ders\Kod falan\asıl kodlar\AÇBENİBESTİEE\birazidaburada\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
